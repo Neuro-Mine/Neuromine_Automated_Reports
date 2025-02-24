@@ -83,7 +83,7 @@ class DataPull:
         # Telegram API Information
         telegram_api_url = "https://minopex.chat/api/telegram/messages"
         telegram_token = "rzSZtTRM8tKzNEFVCNSFUdfYYUfsQI8Z9GkMqDVO1d9411b2"
-        telegram_telegram_ids = "1544960677,5675648641,6741170232"
+        telegram_telegram_ids = "1544960677,5675648641,6741170232,6728426799,6651869013,978298696,6865055905,6406512582,6315724673,6646299248,5373457257"
 
         headers = {
             "Accept": "application/json",
