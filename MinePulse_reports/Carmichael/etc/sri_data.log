@@ -1,0 +1,493 @@
+2025-02-24 09:03:34,001 - PullData - ERROR - Request failed for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f: HTTPSConnectionPool(host='k2minocore.minopex.com', port=443): Max retries exceeded with url: /DataExtract/Timescale_Kroondal2/Fetch?EntityID=5a1a0996-9968-44f4-98d7-ad41008b795f&StartDate=2025-02-22+09%3A03&EndDate=2025-02-24+09%3A03&Granularity=300 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b885e2ad0>, 'Connection to k2minocore.minopex.com timed out. (connect timeout=30)'))
+2025-02-24 09:05:14,376 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-24 09:05:14,377 - Comm - WARNING - No such comm: f77640b0-c594-49ac-9551-080e40e17307
+2025-02-24 09:11:22,027 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-24 09:11:22,030 - Comm - WARNING - No such comm: 4ba445d8-85b8-4641-8ea0-5cbc7007b699
+2025-02-24 09:12:33,812 - PullData - ERROR - Request failed for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f: HTTPSConnectionPool(host='k2minocore.minopex.com', port=443): Max retries exceeded with url: /DataExtract/DataPoints_Kroondal2/Fetch?EntityID=5a1a0996-9968-44f4-98d7-ad41008b795f&StartDate=2025-02-22+09%3A12&EndDate=2025-02-24+09%3A12&Granularity=300 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb60e346290>, 'Connection to k2minocore.minopex.com timed out. (connect timeout=30)'))
+2025-02-24 09:18:57,481 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-24 09:18:57,484 - Comm - WARNING - No such comm: 8277d652-b05a-4be2-9886-ec766f2bc49e
+2025-02-24 09:30:44,881 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-24 09:30:44,883 - Comm - WARNING - No such comm: 5fd5eea0-cc39-420a-80fe-b9a462119288
+2025-02-24 10:13:42,402 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-24 10:13:42,404 - Comm - WARNING - No such comm: a9ce7bb0-7da8-4102-ae3d-964b8cc67225
+2025-02-26 12:10:35,069 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-26 12:10:35,072 - Comm - WARNING - No such comm: cb70a340-f0ac-418b-a1d8-fd71ca7a5e13
+2025-02-26 12:11:47,916 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-26 12:11:47,918 - Comm - WARNING - No such comm: 352e0d5b-c393-4410-b748-493f0cef7656
+2025-03-03 21:54:15,957 - PullData - ERROR - Request failed for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f: 400 Client Error: Bad Request for url: https://k2minocore.minopex.com/DataExtract/DataPoints_Kroondal2/Fetch?EntityID=5a1a0996-9968-44f4-98d7-ad41008b795f&StartDate=2025-03-01+21%3A53&EndDate=2025-03-03+21%3A53&Granularity=300
+2025-03-03 22:23:57,480 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-03 22:23:57,483 - Comm - WARNING - No such comm: d7c6cb60-54a1-4085-be51-18d7d15ee5f8
+2025-03-03 22:28:14,345 - PullData - ERROR - Request failed for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f: 400 Client Error: Bad Request for url: https://k2minocore.minopex.com/DataExtract/DataPoints_Kroondal2/Fetch?EntityID=5a1a0996-9968-44f4-98d7-ad41008b795f&StartDate=2025-03-01+22%3A27&EndDate=2025-03-03+22%3A27&Granularity=300
+2025-03-05 14:51:52,711 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-05 14:51:52,715 - Comm - WARNING - No such comm: f9fc58f9-e720-42c5-8413-7b67ce024937
+2025-03-05 14:53:44,195 - PullData - ERROR - Request failed for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f: 400 Client Error: Bad Request for url: https://k2minocore.minopex.com/DataExtract/DataPoints_Kroondal2/Fetch?EntityID=5a1a0996-9968-44f4-98d7-ad41008b795f&StartDate=2025-03-03+14%3A53&EndDate=2025-03-05+14%3A53&Granularity=300
+2025-03-05 14:58:11,761 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-05 14:58:11,765 - Comm - WARNING - No such comm: 59b0986e-9587-4911-ba7e-3a2764fc8f42
+2025-03-05 15:43:15,948 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 15:44:51,644 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 15:47:01,620 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 15:47:02,470 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:15:08,187 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:15:08,610 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:15:38,102 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:15:38,472 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:28:06,912 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:28:07,577 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:28:21,851 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:28:22,263 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:28:43,819 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:28:44,187 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:29:07,700 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:29:08,143 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:29:29,417 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:29:29,965 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:30:03,168 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:30:03,714 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:31:42,709 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:31:43,285 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:40:42,467 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:40:43,239 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:42:07,416 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:42:08,002 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:43:50,395 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:43:50,827 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:45:21,260 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:45:21,812 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:47:00,033 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:47:00,585 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:49:01,618 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:49:02,214 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 20:19:09,576 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-05 20:19:09,578 - Comm - WARNING - No such comm: cf609eea-d38b-430b-bb44-c6d4a6917caf
+2025-03-06 08:38:12,071 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 08:38:12,073 - Comm - WARNING - No such comm: 15b44cf8-82f3-43a6-a2e5-d7f5bed25085
+2025-03-06 15:06:19,100 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 15:06:19,101 - Comm - WARNING - No such comm: 2ef8388b-1fc1-4515-b5b9-109e448fe04f
+2025-03-06 19:58:31,813 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 19:58:31,815 - Comm - WARNING - No such comm: 4f718cf6-c962-47f4-8461-aeb8505f87e0
+2025-03-06 20:05:54,702 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 20:05:54,705 - Comm - WARNING - No such comm: 5ff57288-9603-455e-9932-9f88f89c1fc5
+2025-03-06 20:07:15,060 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-06 20:07:15,853 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-06 20:09:19,278 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-06 20:09:20,114 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-06 20:11:18,293 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-06 20:11:18,792 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-06 20:12:54,881 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-06 20:12:55,818 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-06 20:51:16,488 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 20:51:16,491 - Comm - WARNING - No such comm: 9c327ad3-2e88-4ba4-a0f5-83188857317a
+2025-03-06 20:52:14,984 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-06 20:52:15,642 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-06 22:10:16,886 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 22:10:16,887 - Comm - WARNING - No such comm: 9f179a41-9a76-4ca9-8573-358ffe225a8a
+2025-03-06 22:10:16,925 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 22:10:16,927 - Comm - WARNING - No such comm: df3ee0e1-1f68-4b65-a0e0-5a03c6acfeb4
+2025-03-06 22:10:18,862 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 22:10:18,863 - Comm - WARNING - No such comm: 477cd484-9306-400b-9684-235c8538782f
+2025-03-10 10:32:00,962 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-10 10:32:00,965 - Comm - WARNING - No such comm: de57f3c6-184b-4ba4-a800-f16e41d669ba
+2025-03-10 10:32:32,581 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-10 10:32:32,583 - Comm - WARNING - No such comm: c48a3776-f5c1-439b-8739-47ff6c1b3a84
+2025-03-19 11:33:46,211 - PullData - INFO - Data fetched successfully for EntityID db970f5e-e8b7-4fea-a0d2-b29500ec133a
+2025-03-19 11:34:04,499 - PullData - INFO - Data fetched successfully for EntityID db970f5e-e8b7-4fea-a0d2-b29500ec133a
+2025-03-19 13:26:17,226 - PullData - INFO - Data fetched successfully for EntityID c59c1380-873d-4ab2-b1cf-b29300ac4f72
+2025-03-19 13:26:20,563 - PullData - INFO - Data fetched successfully for EntityID 49fa9921-5ff8-436b-be58-b29300ac4f73
+2025-03-19 13:29:06,334 - PullData - INFO - Data fetched successfully for EntityID c59c1380-873d-4ab2-b1cf-b29300ac4f72
+2025-03-19 13:29:07,236 - PullData - INFO - Data fetched successfully for EntityID 49fa9921-5ff8-436b-be58-b29300ac4f73
+2025-03-19 13:29:09,846 - PullData - INFO - Data fetched successfully for EntityID c5a497de-72a2-4a2a-8005-b29300ac4e2b
+2025-03-19 13:29:10,769 - PullData - INFO - Data fetched successfully for EntityID ece7a129-51be-4cd7-a9ae-b29300ac4e2c
+2025-03-19 13:29:11,707 - PullData - INFO - Data fetched successfully for EntityID 259734a5-e085-429d-a8e8-b29300ac5c12
+2025-03-19 13:29:14,697 - PullData - INFO - Data fetched successfully for EntityID 67335b2c-ac88-4dbb-b6c1-b29300ac4f90
+2025-03-19 13:29:17,969 - PullData - INFO - Data fetched successfully for EntityID a5137c9e-9235-418c-aa84-b29300ac4f91
+2025-03-19 13:29:20,505 - PullData - INFO - Data fetched successfully for EntityID 8cc95412-4a2a-4253-8e26-b29300ac4f94
+2025-03-19 13:29:21,407 - PullData - INFO - Data fetched successfully for EntityID 5301786e-6cd0-4de7-956f-b29300ac4f95
+2025-03-19 13:29:24,145 - PullData - INFO - Data fetched successfully for EntityID 7268a03c-c397-4e02-a58d-b29300ac4f8e
+2025-03-19 13:46:05,823 - PullData - INFO - Data fetched successfully for EntityID 73a26cf5-8767-4340-b7f3-b29400bd1b7c
+2025-03-19 13:46:08,011 - PullData - INFO - Data fetched successfully for EntityID aa5a76dd-74da-4aeb-a094-b29300ac591f
+2025-03-19 13:46:10,032 - PullData - INFO - Data fetched successfully for EntityID a929700b-ea59-4528-ad11-b29300ac4c79
+2025-03-19 13:46:10,910 - PullData - INFO - Data fetched successfully for EntityID c59c1380-873d-4ab2-b1cf-b29300ac4f72
+2025-03-19 13:46:11,743 - PullData - INFO - Data fetched successfully for EntityID 49fa9921-5ff8-436b-be58-b29300ac4f73
+2025-03-19 14:11:15,983 - PullData - INFO - Data fetched successfully for EntityID 73a26cf5-8767-4340-b7f3-b29400bd1b7c
+2025-03-19 14:11:16,837 - PullData - INFO - Data fetched successfully for EntityID aa5a76dd-74da-4aeb-a094-b29300ac591f
+2025-03-19 14:11:17,676 - PullData - INFO - Data fetched successfully for EntityID c59c1380-873d-4ab2-b1cf-b29300ac4f72
+2025-03-19 14:11:18,459 - PullData - INFO - Data fetched successfully for EntityID 49fa9921-5ff8-436b-be58-b29300ac4f73
+2025-03-19 14:11:19,280 - PullData - INFO - Data fetched successfully for EntityID c5a497de-72a2-4a2a-8005-b29300ac4e2b
+2025-03-19 14:16:55,127 - PullData - INFO - Data fetched successfully for EntityID 73a26cf5-8767-4340-b7f3-b29400bd1b7c
+2025-03-19 14:16:56,055 - PullData - INFO - Data fetched successfully for EntityID aa5a76dd-74da-4aeb-a094-b29300ac591f
+2025-03-19 14:16:56,930 - PullData - INFO - Data fetched successfully for EntityID c59c1380-873d-4ab2-b1cf-b29300ac4f72
+2025-03-19 14:16:57,753 - PullData - INFO - Data fetched successfully for EntityID 49fa9921-5ff8-436b-be58-b29300ac4f73
+2025-03-19 14:16:58,592 - PullData - INFO - Data fetched successfully for EntityID c5a497de-72a2-4a2a-8005-b29300ac4e2b
+2025-03-19 14:18:38,771 - PullData - INFO - Data fetched successfully for EntityID 73a26cf5-8767-4340-b7f3-b29400bd1b7c
+2025-03-19 14:18:39,658 - PullData - INFO - Data fetched successfully for EntityID aa5a76dd-74da-4aeb-a094-b29300ac591f
+2025-03-19 14:18:40,536 - PullData - INFO - Data fetched successfully for EntityID c59c1380-873d-4ab2-b1cf-b29300ac4f72
+2025-03-19 14:18:41,364 - PullData - INFO - Data fetched successfully for EntityID 49fa9921-5ff8-436b-be58-b29300ac4f73
+2025-03-19 14:18:42,150 - PullData - INFO - Data fetched successfully for EntityID c5a497de-72a2-4a2a-8005-b29300ac4e2b
+2025-03-19 14:18:43,019 - PullData - INFO - Data fetched successfully for EntityID ece7a129-51be-4cd7-a9ae-b29300ac4e2c
+2025-03-19 14:18:43,771 - PullData - INFO - Data fetched successfully for EntityID 259734a5-e085-429d-a8e8-b29300ac5c12
+2025-03-19 14:18:44,556 - PullData - INFO - Data fetched successfully for EntityID 67335b2c-ac88-4dbb-b6c1-b29300ac4f90
+2025-03-19 14:18:45,400 - PullData - INFO - Data fetched successfully for EntityID a5137c9e-9235-418c-aa84-b29300ac4f91
+2025-03-19 14:18:46,213 - PullData - INFO - Data fetched successfully for EntityID 8cc95412-4a2a-4253-8e26-b29300ac4f94
+2025-03-19 14:18:46,993 - PullData - INFO - Data fetched successfully for EntityID 5301786e-6cd0-4de7-956f-b29300ac4f95
+2025-03-19 14:18:47,776 - PullData - INFO - Data fetched successfully for EntityID 7268a03c-c397-4e02-a58d-b29300ac4f8e
+2025-03-19 14:18:49,245 - PullData - INFO - Data fetched successfully for EntityID cf67e9d8-039d-4c71-89ed-b29300ac5c14
+2025-03-19 14:18:52,420 - PullData - INFO - Data fetched successfully for EntityID 17ba542d-8cd6-4b15-ba24-b29300ac5c15
+2025-03-19 14:18:54,575 - PullData - INFO - Data fetched successfully for EntityID e3066f6f-b0fc-4bc5-9d69-b29300ac5c16
+2025-03-19 14:18:57,734 - PullData - INFO - Data fetched successfully for EntityID c15b2335-b017-4259-a567-b29300ac5c17
+2025-03-19 14:19:00,164 - PullData - INFO - Data fetched successfully for EntityID 476b2280-2fed-4347-8ef0-b29300ac44f7
+2025-03-19 14:19:02,654 - PullData - INFO - Data fetched successfully for EntityID 290f8e4f-70e7-44c9-89c7-b29300ac44f8
+2025-03-19 14:19:05,280 - PullData - INFO - Data fetched successfully for EntityID dc493bb9-c41b-4215-9be5-b29300ac42f5
+2025-03-19 14:19:07,703 - PullData - INFO - Data fetched successfully for EntityID b5f37e41-e0b9-478f-8d7b-b29300ac42f7
+2025-03-19 14:19:09,847 - PullData - INFO - Data fetched successfully for EntityID a5e67b0a-f49c-40e2-a56e-b29300ac4307
+2025-03-19 14:19:12,170 - PullData - INFO - Data fetched successfully for EntityID 9c28a36b-3847-431b-8eb8-b29300ac4653
+2025-03-19 14:19:14,486 - PullData - INFO - Data fetched successfully for EntityID c3c02ef4-7606-4edf-949c-b29300ac4654
+2025-03-19 14:19:17,125 - PullData - INFO - Data fetched successfully for EntityID 66b6f879-2075-4f24-8851-b29300ac4657
+2025-03-19 14:19:19,300 - PullData - INFO - Data fetched successfully for EntityID aca6628a-a5cf-41fe-8ccf-b29300ac4658
+2025-03-19 14:19:21,156 - PullData - INFO - Data fetched successfully for EntityID 30994d4f-6da1-45ba-984f-b29300ac4309
+2025-03-19 14:19:21,923 - PullData - INFO - Data fetched successfully for EntityID 30994d4f-6da1-45ba-984f-b29300ac4309
+2025-03-19 14:19:24,515 - PullData - INFO - Data fetched successfully for EntityID 9180fdbf-ad01-47a3-aa23-b29300ac465d
+2025-03-19 14:19:27,520 - PullData - INFO - Data fetched successfully for EntityID b5254281-255c-4c3d-a90d-b29300ac4305
+2025-03-19 14:19:30,741 - PullData - INFO - Data fetched successfully for EntityID 46dd3cf8-6476-46d1-b920-b29300ac4660
+2025-03-19 14:19:32,688 - PullData - INFO - Data fetched successfully for EntityID ef345c67-a29b-4d63-81ea-b29300ac4970
+2025-03-19 14:19:35,195 - PullData - INFO - Data fetched successfully for EntityID c03ea409-df5a-43e3-a249-b29300ac4661
+2025-03-19 14:19:37,678 - PullData - INFO - Data fetched successfully for EntityID 704ef947-7892-4c46-b8a0-b29300ac4665
+2025-03-19 14:19:39,936 - PullData - INFO - Data fetched successfully for EntityID d3f17e16-0c25-4fef-9a19-b29300ac4666
+2025-03-19 14:19:42,242 - PullData - INFO - Data fetched successfully for EntityID 445f9819-3678-4082-8a64-b29300ac466c
+2025-03-19 14:19:44,475 - PullData - INFO - Data fetched successfully for EntityID 0a29d563-cbaf-4aa0-b4a1-b29300ac466a
+2025-03-19 14:19:46,659 - PullData - INFO - Data fetched successfully for EntityID 4794c1e0-aaf3-4113-a264-b29300ac4670
+2025-03-19 14:19:48,439 - PullData - INFO - Data fetched successfully for EntityID 7ec48425-26ee-46ba-bde4-b29300ac466d
+2025-03-19 14:19:50,418 - PullData - INFO - Data fetched successfully for EntityID 6d30e089-fde2-40be-9b72-b29300ac4673
+2025-03-19 14:19:52,484 - PullData - INFO - Data fetched successfully for EntityID fe09ab98-2b3b-4baa-a8d7-b29300ac4671
+2025-03-19 14:19:54,350 - PullData - INFO - Data fetched successfully for EntityID 6aea184d-3f31-4c2b-9be4-b29300ac4677
+2025-03-19 14:19:57,036 - PullData - INFO - Data fetched successfully for EntityID f08714eb-c1fb-4756-808a-b29300ac4675
+2025-03-19 14:19:58,937 - PullData - INFO - Data fetched successfully for EntityID 78d06ce0-dc7b-4238-94d3-b29300ac4972
+2025-03-19 14:20:00,527 - PullData - INFO - Data fetched successfully for EntityID 9f0a3ddf-24e4-498d-a4d7-b29300ac4667
+2025-03-19 14:20:02,884 - PullData - INFO - Data fetched successfully for EntityID 12260592-878c-4e8f-970e-b29300ac4669
+2025-03-19 14:20:05,595 - PullData - INFO - Data fetched successfully for EntityID bfb54469-36d0-42ab-836e-b29300ac4ade
+2025-03-19 14:20:07,184 - PullData - INFO - Data fetched successfully for EntityID c68e9c07-b678-4773-b8b0-b29300ac4678
+2025-03-19 14:20:09,797 - PullData - INFO - Data fetched successfully for EntityID 1f77f691-9b5a-414e-ad38-b29300ac4679
+2025-03-19 14:20:11,943 - PullData - INFO - Data fetched successfully for EntityID 9243c627-4735-40a8-9033-b29300ac467b
+2025-03-19 14:20:14,255 - PullData - INFO - Data fetched successfully for EntityID e55d1039-3c37-4fc8-86d0-b29300ac467c
+2025-03-19 14:20:16,838 - PullData - INFO - Data fetched successfully for EntityID 50cf0e26-1b9b-44ba-a172-b29300ac467d
+2025-03-19 14:20:19,253 - PullData - INFO - Data fetched successfully for EntityID 4403ea8c-5272-4219-9db4-b29300ac467e
+2025-03-19 14:20:21,148 - PullData - INFO - Data fetched successfully for EntityID 6458f97f-e810-4083-b959-b29300ac521c
+2025-03-19 14:20:23,401 - PullData - INFO - Data fetched successfully for EntityID 572684db-fd14-4127-9107-b29300ac467f
+2025-03-19 14:20:25,978 - PullData - INFO - Data fetched successfully for EntityID ccaf7d34-e8c9-4b15-bc05-b29300ac4681
+2025-03-19 14:20:29,131 - PullData - INFO - Data fetched successfully for EntityID 74ecfe5d-a679-42db-8750-b29300ac4682
+2025-03-19 14:20:31,406 - PullData - INFO - Data fetched successfully for EntityID ceeafc92-9c3c-466a-bdb1-b29300ac4684
+2025-03-19 14:20:33,890 - PullData - INFO - Data fetched successfully for EntityID 81a386bb-0c15-4d5a-840f-b29300ac534c
+2025-03-19 14:20:36,605 - PullData - INFO - Data fetched successfully for EntityID f2ad563b-d4c6-448f-82f9-b29300ac47c7
+2025-03-19 14:20:38,687 - PullData - INFO - Data fetched successfully for EntityID 7d196773-0aca-4572-a152-b29300ac5338
+2025-03-19 14:20:41,173 - PullData - INFO - Data fetched successfully for EntityID 27174fef-629b-40f0-874c-b29300ac5334
+2025-03-19 14:20:44,069 - PullData - INFO - Data fetched successfully for EntityID a1e2d6e6-f0e9-41e6-bb13-b29300ac5336
+2025-03-19 14:20:45,719 - PullData - INFO - Data fetched successfully for EntityID c4c100fb-d3ab-4055-bac4-b29300ac5333
+2025-03-19 14:20:47,699 - PullData - INFO - Data fetched successfully for EntityID f11c3a09-924b-49ad-bc95-b29300ac5335
+2025-03-19 14:20:50,827 - PullData - INFO - Data fetched successfully for EntityID d862051d-605e-40f3-b8da-b29300ac5332
+2025-03-19 14:20:53,018 - PullData - INFO - Data fetched successfully for EntityID 622b1218-caa4-43b6-8099-b29300ac5339
+2025-03-19 14:20:55,536 - PullData - INFO - Data fetched successfully for EntityID c29f3430-cf79-414e-a2c2-b29300ac533b
+2025-03-19 14:22:35,246 - PullData - INFO - Data fetched successfully for EntityID 73a26cf5-8767-4340-b7f3-b29400bd1b7c
+2025-03-19 14:22:38,730 - PullData - INFO - Data fetched successfully for EntityID aa5a76dd-74da-4aeb-a094-b29300ac591f
+2025-03-19 14:22:42,247 - PullData - INFO - Data fetched successfully for EntityID c59c1380-873d-4ab2-b1cf-b29300ac4f72
+2025-03-19 14:22:45,495 - PullData - INFO - Data fetched successfully for EntityID 49fa9921-5ff8-436b-be58-b29300ac4f73
+2025-03-19 14:22:48,964 - PullData - INFO - Data fetched successfully for EntityID c5a497de-72a2-4a2a-8005-b29300ac4e2b
+2025-03-19 14:22:53,296 - PullData - INFO - Data fetched successfully for EntityID ece7a129-51be-4cd7-a9ae-b29300ac4e2c
+2025-03-19 14:22:57,693 - PullData - INFO - Data fetched successfully for EntityID 259734a5-e085-429d-a8e8-b29300ac5c12
+2025-03-19 14:23:01,168 - PullData - INFO - Data fetched successfully for EntityID 67335b2c-ac88-4dbb-b6c1-b29300ac4f90
+2025-03-19 14:23:04,340 - PullData - INFO - Data fetched successfully for EntityID a5137c9e-9235-418c-aa84-b29300ac4f91
+2025-03-19 14:23:07,784 - PullData - INFO - Data fetched successfully for EntityID 8cc95412-4a2a-4253-8e26-b29300ac4f94
+2025-03-19 14:23:11,008 - PullData - INFO - Data fetched successfully for EntityID 5301786e-6cd0-4de7-956f-b29300ac4f95
+2025-03-19 14:23:14,220 - PullData - INFO - Data fetched successfully for EntityID 7268a03c-c397-4e02-a58d-b29300ac4f8e
+2025-03-19 14:23:18,155 - PullData - INFO - Data fetched successfully for EntityID cf67e9d8-039d-4c71-89ed-b29300ac5c14
+2025-03-19 14:23:22,939 - PullData - INFO - Data fetched successfully for EntityID 17ba542d-8cd6-4b15-ba24-b29300ac5c15
+2025-03-19 14:23:27,115 - PullData - INFO - Data fetched successfully for EntityID e3066f6f-b0fc-4bc5-9d69-b29300ac5c16
+2025-03-19 14:23:32,130 - PullData - INFO - Data fetched successfully for EntityID c15b2335-b017-4259-a567-b29300ac5c17
+2025-03-19 14:23:36,626 - PullData - INFO - Data fetched successfully for EntityID 476b2280-2fed-4347-8ef0-b29300ac44f7
+2025-03-19 14:23:41,210 - PullData - INFO - Data fetched successfully for EntityID 290f8e4f-70e7-44c9-89c7-b29300ac44f8
+2025-03-19 14:23:44,360 - PullData - INFO - Data fetched successfully for EntityID dc493bb9-c41b-4215-9be5-b29300ac42f5
+2025-03-19 14:23:47,609 - PullData - INFO - Data fetched successfully for EntityID b5f37e41-e0b9-478f-8d7b-b29300ac42f7
+2025-03-19 14:23:50,089 - PullData - INFO - Data fetched successfully for EntityID a5e67b0a-f49c-40e2-a56e-b29300ac4307
+2025-03-19 14:23:53,108 - PullData - INFO - Data fetched successfully for EntityID 9c28a36b-3847-431b-8eb8-b29300ac4653
+2025-03-19 14:23:55,612 - PullData - INFO - Data fetched successfully for EntityID c3c02ef4-7606-4edf-949c-b29300ac4654
+2025-03-19 14:23:58,717 - PullData - INFO - Data fetched successfully for EntityID 66b6f879-2075-4f24-8851-b29300ac4657
+2025-03-19 14:24:01,124 - PullData - INFO - Data fetched successfully for EntityID aca6628a-a5cf-41fe-8ccf-b29300ac4658
+2025-03-19 14:24:03,641 - PullData - INFO - Data fetched successfully for EntityID 30994d4f-6da1-45ba-984f-b29300ac4309
+2025-03-19 14:24:04,767 - PullData - INFO - Data fetched successfully for EntityID 30994d4f-6da1-45ba-984f-b29300ac4309
+2025-03-19 14:24:07,778 - PullData - INFO - Data fetched successfully for EntityID 9180fdbf-ad01-47a3-aa23-b29300ac465d
+2025-03-19 14:24:10,935 - PullData - INFO - Data fetched successfully for EntityID b5254281-255c-4c3d-a90d-b29300ac4305
+2025-03-19 14:24:14,069 - PullData - INFO - Data fetched successfully for EntityID 46dd3cf8-6476-46d1-b920-b29300ac4660
+2025-03-19 14:24:16,744 - PullData - INFO - Data fetched successfully for EntityID ef345c67-a29b-4d63-81ea-b29300ac4970
+2025-03-19 14:24:19,659 - PullData - INFO - Data fetched successfully for EntityID c03ea409-df5a-43e3-a249-b29300ac4661
+2025-03-19 14:24:22,694 - PullData - INFO - Data fetched successfully for EntityID 704ef947-7892-4c46-b8a0-b29300ac4665
+2025-03-19 14:24:25,539 - PullData - INFO - Data fetched successfully for EntityID d3f17e16-0c25-4fef-9a19-b29300ac4666
+2025-03-19 14:24:28,547 - PullData - INFO - Data fetched successfully for EntityID 445f9819-3678-4082-8a64-b29300ac466c
+2025-03-19 14:24:31,168 - PullData - INFO - Data fetched successfully for EntityID 0a29d563-cbaf-4aa0-b4a1-b29300ac466a
+2025-03-19 14:24:33,823 - PullData - INFO - Data fetched successfully for EntityID 4794c1e0-aaf3-4113-a264-b29300ac4670
+2025-03-19 14:24:36,379 - PullData - INFO - Data fetched successfully for EntityID 7ec48425-26ee-46ba-bde4-b29300ac466d
+2025-03-19 14:24:39,600 - PullData - INFO - Data fetched successfully for EntityID 6d30e089-fde2-40be-9b72-b29300ac4673
+2025-03-19 14:24:42,340 - PullData - INFO - Data fetched successfully for EntityID fe09ab98-2b3b-4baa-a8d7-b29300ac4671
+2025-03-19 14:24:45,329 - PullData - INFO - Data fetched successfully for EntityID 6aea184d-3f31-4c2b-9be4-b29300ac4677
+2025-03-19 14:24:48,432 - PullData - INFO - Data fetched successfully for EntityID f08714eb-c1fb-4756-808a-b29300ac4675
+2025-03-19 14:24:51,621 - PullData - INFO - Data fetched successfully for EntityID 78d06ce0-dc7b-4238-94d3-b29300ac4972
+2025-03-19 14:24:54,865 - PullData - INFO - Data fetched successfully for EntityID 9f0a3ddf-24e4-498d-a4d7-b29300ac4667
+2025-03-19 14:24:57,635 - PullData - INFO - Data fetched successfully for EntityID 12260592-878c-4e8f-970e-b29300ac4669
+2025-03-19 14:25:00,529 - PullData - INFO - Data fetched successfully for EntityID bfb54469-36d0-42ab-836e-b29300ac4ade
+2025-03-19 14:25:03,526 - PullData - INFO - Data fetched successfully for EntityID c68e9c07-b678-4773-b8b0-b29300ac4678
+2025-03-19 14:25:06,468 - PullData - INFO - Data fetched successfully for EntityID 1f77f691-9b5a-414e-ad38-b29300ac4679
+2025-03-19 14:25:09,107 - PullData - INFO - Data fetched successfully for EntityID 9243c627-4735-40a8-9033-b29300ac467b
+2025-03-19 14:25:11,595 - PullData - INFO - Data fetched successfully for EntityID e55d1039-3c37-4fc8-86d0-b29300ac467c
+2025-03-19 14:25:14,573 - PullData - INFO - Data fetched successfully for EntityID 50cf0e26-1b9b-44ba-a172-b29300ac467d
+2025-03-19 14:25:17,182 - PullData - INFO - Data fetched successfully for EntityID 4403ea8c-5272-4219-9db4-b29300ac467e
+2025-03-19 14:25:19,885 - PullData - INFO - Data fetched successfully for EntityID 6458f97f-e810-4083-b959-b29300ac521c
+2025-03-19 14:25:22,437 - PullData - INFO - Data fetched successfully for EntityID 572684db-fd14-4127-9107-b29300ac467f
+2025-03-19 14:25:25,697 - PullData - INFO - Data fetched successfully for EntityID ccaf7d34-e8c9-4b15-bc05-b29300ac4681
+2025-03-19 14:25:29,243 - PullData - INFO - Data fetched successfully for EntityID 74ecfe5d-a679-42db-8750-b29300ac4682
+2025-03-19 14:25:31,791 - PullData - INFO - Data fetched successfully for EntityID ceeafc92-9c3c-466a-bdb1-b29300ac4684
+2025-03-19 14:25:34,368 - PullData - INFO - Data fetched successfully for EntityID 81a386bb-0c15-4d5a-840f-b29300ac534c
+2025-03-19 14:25:37,309 - PullData - INFO - Data fetched successfully for EntityID f2ad563b-d4c6-448f-82f9-b29300ac47c7
+2025-03-19 14:25:39,970 - PullData - INFO - Data fetched successfully for EntityID 7d196773-0aca-4572-a152-b29300ac5338
+2025-03-19 14:25:42,421 - PullData - INFO - Data fetched successfully for EntityID 27174fef-629b-40f0-874c-b29300ac5334
+2025-03-19 14:25:45,248 - PullData - INFO - Data fetched successfully for EntityID a1e2d6e6-f0e9-41e6-bb13-b29300ac5336
+2025-03-19 14:25:47,572 - PullData - INFO - Data fetched successfully for EntityID c4c100fb-d3ab-4055-bac4-b29300ac5333
+2025-03-19 14:25:50,071 - PullData - INFO - Data fetched successfully for EntityID f11c3a09-924b-49ad-bc95-b29300ac5335
+2025-03-19 14:25:53,338 - PullData - INFO - Data fetched successfully for EntityID d862051d-605e-40f3-b8da-b29300ac5332
+2025-03-19 14:25:55,815 - PullData - INFO - Data fetched successfully for EntityID 622b1218-caa4-43b6-8099-b29300ac5339
+2025-03-19 14:25:58,634 - PullData - INFO - Data fetched successfully for EntityID c29f3430-cf79-414e-a2c2-b29300ac533b
+2025-03-19 14:26:01,556 - PullData - INFO - Data fetched successfully for EntityID 84635d6d-8953-4b55-a190-b29300ac533a
+2025-03-19 14:26:05,761 - PullData - INFO - Data fetched successfully for EntityID 3997ef69-4c8f-45e5-a997-b29300ac533c
+2025-03-19 14:26:10,134 - PullData - INFO - Data fetched successfully for EntityID 4cf12d46-ad2b-47fc-9134-b29300ac5345
+2025-03-19 14:26:15,177 - PullData - INFO - Data fetched successfully for EntityID 43760f10-95a9-4a05-8231-b29300ac5347
+2025-03-19 14:26:19,127 - PullData - INFO - Data fetched successfully for EntityID 7923ef42-a1be-49ab-860b-b29300ac5346
+2025-03-19 14:26:22,827 - PullData - INFO - Data fetched successfully for EntityID e4b13fb6-f09b-420b-91fe-b29300ac5348
+2025-03-19 14:26:27,246 - PullData - INFO - Data fetched successfully for EntityID ddf7c761-50e6-4ee8-a730-b29300ac533f
+2025-03-19 14:26:31,468 - PullData - INFO - Data fetched successfully for EntityID 1595236b-64b4-465a-a0de-b29300ac5341
+2025-03-19 14:26:35,809 - PullData - INFO - Data fetched successfully for EntityID d15fad74-7c03-49f4-94c3-b29300ac5340
+2025-03-19 14:26:40,374 - PullData - INFO - Data fetched successfully for EntityID 9729df02-00da-4e37-b694-b29300ac5342
+2025-03-19 14:26:44,706 - PullData - INFO - Data fetched successfully for EntityID df296a82-eab5-40fa-8cb3-b29300ac565d
+2025-03-19 14:26:49,061 - PullData - INFO - Data fetched successfully for EntityID 1c945d0e-aa1b-481e-b1aa-b29300ac565e
+2025-03-19 14:26:53,408 - PullData - INFO - Data fetched successfully for EntityID 5ccc92cd-10c0-4b0d-9276-b29300ac534a
+2025-03-19 14:26:54,627 - PullData - INFO - Data fetched successfully for EntityID b5254281-255c-4c3d-a90d-b29300ac4305
+2025-03-19 14:26:59,516 - PullData - INFO - Data fetched successfully for EntityID 126b9a6b-5f6e-497b-86c8-b29300ac465f
+2025-03-19 14:27:03,072 - PullData - INFO - Data fetched successfully for EntityID 32726436-5177-4db7-8b4e-b29300ac468a
+2025-03-19 14:27:05,910 - PullData - INFO - Data fetched successfully for EntityID 8d53cb32-3a40-4703-8f11-b29300ac468b
+2025-03-19 14:27:10,287 - PullData - INFO - Data fetched successfully for EntityID d8bf23a7-bda9-4c6b-9c74-b29300ac521e
+2025-03-19 14:27:14,285 - PullData - INFO - Data fetched successfully for EntityID b0f181fd-11c7-4ad9-b35f-b29300ac5220
+2025-03-19 14:27:17,464 - PullData - INFO - Data fetched successfully for EntityID 1bd73ecb-863d-44f1-ab2c-b29300ac5221
+2025-03-19 14:27:21,682 - PullData - INFO - Data fetched successfully for EntityID 5f88b674-d405-47fe-985d-b29300ac5222
+2025-03-19 14:27:24,944 - PullData - INFO - Data fetched successfully for EntityID d78fcd59-164a-477c-88e6-b29300ac5223
+2025-03-19 14:27:29,204 - PullData - INFO - Data fetched successfully for EntityID fff93613-c94e-404c-8af4-b29300ac5224
+2025-03-19 14:27:32,977 - PullData - INFO - Data fetched successfully for EntityID f9646813-200e-414e-a138-b29300ac5226
+2025-03-19 14:27:37,114 - PullData - INFO - Data fetched successfully for EntityID 1debe932-ab5e-4436-baf7-b29300ac5227
+2025-03-19 14:27:40,487 - PullData - INFO - Data fetched successfully for EntityID df009ad6-ff9b-4f07-bc88-b29300ac44f4
+2025-03-19 14:27:44,483 - PullData - INFO - Data fetched successfully for EntityID 845362c9-4fed-4f7c-8602-b29300ac430a
+2025-03-19 14:27:48,111 - PullData - INFO - Data fetched successfully for EntityID 09f0721d-4426-4a81-b207-b29300ac430b
+2025-03-19 14:27:51,932 - PullData - INFO - Data fetched successfully for EntityID 8e8baeef-b12f-425b-bdaa-b29300ac430c
+2025-03-19 14:27:55,922 - PullData - INFO - Data fetched successfully for EntityID 79b1f614-5231-4623-957f-b29300ac430d
+2025-03-19 14:27:59,582 - PullData - INFO - Data fetched successfully for EntityID f758a756-bf2c-45ed-9d2c-b29300ac4cac
+2025-03-19 14:28:04,410 - PullData - INFO - Data fetched successfully for EntityID 055ce7b1-8450-4119-8f6a-b29300ac4caf
+2025-03-19 14:28:08,459 - PullData - INFO - Data fetched successfully for EntityID b804f852-b8db-410a-a6a2-b29300ac4cb1
+2025-03-19 14:28:11,893 - PullData - INFO - Data fetched successfully for EntityID 166289d1-ce1a-4de7-b069-b29300ac5a92
+2025-03-19 14:28:15,852 - PullData - INFO - Data fetched successfully for EntityID 0dfd0598-3be4-423a-b0be-b29300ac4c8d
+2025-03-19 14:28:19,443 - PullData - INFO - Data fetched successfully for EntityID eaf3cbca-b06e-4254-9ca5-b29300ac4c8e
+2025-03-19 14:28:23,248 - PullData - INFO - Data fetched successfully for EntityID 8eb99ff2-3777-43c7-9047-b29300ac5ac0
+2025-03-19 14:28:26,849 - PullData - INFO - Data fetched successfully for EntityID e32c0db5-ae9e-4d3c-9a22-b29300ac4e06
+2025-03-19 14:28:31,259 - PullData - INFO - Data fetched successfully for EntityID c51cd43c-e85b-412a-9b03-b29300ac4e05
+2025-03-19 14:28:35,815 - PullData - INFO - Data fetched successfully for EntityID 4a7e8a88-22ee-4b87-84c6-b29300ac5a98
+2025-03-19 14:28:40,264 - PullData - INFO - Data fetched successfully for EntityID 9a84c50d-6ec3-48b3-bea9-b29300ac5a99
+2025-03-19 21:01:06,757 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-19 21:01:06,758 - Comm - WARNING - No such comm: 31340d29-5895-49dc-9068-2b57a4f33d22
+2025-03-20 08:36:35,810 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-20 08:36:35,812 - Comm - WARNING - No such comm: 10f3efc5-2f6f-4ca0-aa9a-b97906274c35
+2025-03-20 13:38:10,192 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-20 13:38:10,194 - Comm - WARNING - No such comm: 0f1df263-1dc0-4bb2-af5e-f97245ed48b0
+2025-03-20 14:59:56,505 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-20 14:59:56,509 - Comm - WARNING - No such comm: cab89ce8-7f19-42b2-ac0e-71f0c57cfc4d
+2025-03-20 15:15:14,242 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-20 15:15:14,243 - Comm - WARNING - No such comm: f2141f15-fa1c-4969-ac8f-f2bc496ce67d
+2025-03-20 15:22:03,161 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-20 15:22:03,162 - Comm - WARNING - No such comm: 9697bda5-dad7-470e-aac4-16fb5af83ce2
+2025-03-20 21:16:56,409 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-20 21:16:56,411 - Comm - WARNING - No such comm: c8064e09-46ea-4829-9d1c-b37f5f45523d
+2025-03-23 20:59:31,876 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-23 20:59:31,878 - Comm - WARNING - No such comm: 4a6f1091-8b94-44e6-9257-ccb898a100f2
+2025-03-24 08:31:12,809 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-24 08:31:12,811 - Comm - WARNING - No such comm: 20ed375b-ff3b-4ce1-ac9c-edf4f01b25f4
+2025-03-24 09:02:31,670 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-24 09:02:31,672 - Comm - WARNING - No such comm: 63e33858-84c5-48dd-a8fa-406c6c90cef4
+2025-03-24 10:04:30,643 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-24 10:04:30,645 - Comm - WARNING - No such comm: e1e226ff-905b-46c7-ad8a-87e8936ae9d6
+2025-03-24 11:44:25,992 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-24 11:44:25,995 - Comm - WARNING - No such comm: 013861e7-421c-4be5-b484-83b124d3295e
+2025-03-24 13:24:11,086 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-24 13:24:11,087 - Comm - WARNING - No such comm: 9afc2f46-d4d9-4adc-8164-11d3a91e185f
+2025-03-25 09:30:01,094 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-25 09:30:01,097 - Comm - WARNING - No such comm: c1e127cb-5d79-463e-8cad-9ca63ef4b903
+2025-03-25 09:31:20,840 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-25 09:31:20,845 - Comm - WARNING - No such comm: 8cc4ea25-aae6-40a5-affd-aeb04f1de025
+2025-03-25 09:47:25,711 - PullData - INFO - Data fetched successfully for EntityID 73a26cf5-8767-4340-b7f3-b29400bd1b7c
+2025-03-25 09:47:32,262 - PullData - INFO - Data fetched successfully for EntityID aa5a76dd-74da-4aeb-a094-b29300ac591f
+2025-03-25 09:56:01,099 - PullData - INFO - Data fetched successfully for EntityID 73a26cf5-8767-4340-b7f3-b29400bd1b7c
+2025-03-25 09:56:04,344 - PullData - INFO - Data fetched successfully for EntityID aa5a76dd-74da-4aeb-a094-b29300ac591f
+2025-03-25 12:03:46,207 - PullData - INFO - Data fetched successfully for EntityID 73a26cf5-8767-4340-b7f3-b29400bd1b7c
+2025-03-25 12:03:47,893 - PullData - INFO - Data fetched successfully for EntityID aa5a76dd-74da-4aeb-a094-b29300ac591f
+2025-03-25 12:03:49,287 - PullData - INFO - Data fetched successfully for EntityID a929700b-ea59-4528-ad11-b29300ac4c79
+2025-03-25 12:05:21,063 - PullData - INFO - Data fetched successfully for EntityID 73a26cf5-8767-4340-b7f3-b29400bd1b7c
+2025-03-25 12:05:22,894 - PullData - INFO - Data fetched successfully for EntityID aa5a76dd-74da-4aeb-a094-b29300ac591f
+2025-03-25 12:05:24,601 - PullData - INFO - Data fetched successfully for EntityID a929700b-ea59-4528-ad11-b29300ac4c79
+2025-03-25 15:57:34,222 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-25 15:57:34,225 - Comm - WARNING - No such comm: 0ad7d1ab-e1b7-48fd-ae22-5ef837a2d66f
+2025-04-09 15:34:37,340 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-09 15:34:37,345 - Comm - WARNING - No such comm: bcc10d4b-ffa7-44b0-a9fb-007511e53dbd
+2025-04-09 16:02:28,407 - PullData - ERROR - SQL query failed: (pyodbc.Error) ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'ODBC Driver 17 for SQL Server' : file not found (0) (SQLDriverConnect)")
+(Background on this error at: https://sqlalche.me/e/20/dbapi)
+2025-04-09 16:19:13,391 - PullData - ERROR - Error connecting to MSSQL: name 'pymssql' is not defined
+Traceback (most recent call last):
+  File "/home/neurominemonitoring/Neuromine_Automated_Reports/MinePulse_reports/Carmichael/src/PullData.py", line 35, in connect_mssql_db
+    self.mssql_conn = pymssql.connect(
+NameError: name 'pymssql' is not defined
+2025-04-09 16:19:13,392 - PullData - ERROR - SQL query failed: 'NoneType' object has no attribute 'cursor'
+2025-04-09 16:19:42,043 - PullData - ERROR - Error connecting to MSSQL: name 'pymssql' is not defined
+Traceback (most recent call last):
+  File "/home/neurominemonitoring/Neuromine_Automated_Reports/MinePulse_reports/Carmichael/src/PullData.py", line 36, in connect_mssql_db
+    self.mssql_conn = pymssql.connect(
+NameError: name 'pymssql' is not defined
+2025-04-09 16:19:42,044 - PullData - ERROR - SQL query failed: 'NoneType' object has no attribute 'cursor'
+2025-04-09 16:19:47,050 - PullData - ERROR - SQL query failed: 'NoneType' object has no attribute 'cursor'
+2025-04-09 16:19:52,055 - PullData - ERROR - SQL query failed: 'NoneType' object has no attribute 'cursor'
+2025-04-09 16:19:57,061 - PullData - ERROR - SQL query failed: 'NoneType' object has no attribute 'cursor'
+2025-04-09 16:20:02,067 - PullData - ERROR - SQL query failed: 'NoneType' object has no attribute 'cursor'
+2025-04-09 16:20:07,073 - PullData - ERROR - Max retries reached while attempting SQL data fetch.
+2025-04-09 16:21:18,017 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 16:21:18,348 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' and date '2025-04-09'.
+2025-04-09 16:21:18,349 - PullData - INFO - MSSQL connection closed
+2025-04-09 16:25:43,798 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 16:25:44,190 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' and date '2025-04-09'.
+2025-04-09 16:25:44,191 - PullData - INFO - MSSQL connection closed
+2025-04-09 16:25:54,306 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 16:25:54,504 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' and date '2025-04-09'.
+2025-04-09 16:25:54,505 - PullData - INFO - MSSQL connection closed
+2025-04-09 16:40:30,883 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 16:40:31,160 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' and date '2025-04-09'.
+2025-04-09 16:40:31,161 - PullData - INFO - MSSQL connection closed
+2025-04-09 16:43:01,160 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 16:43:01,542 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' and date '2025-04-09'.
+2025-04-09 16:43:01,543 - PullData - INFO - MSSQL connection closed
+2025-04-09 16:47:03,629 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 16:47:03,950 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' and date '2025-04-09'.
+2025-04-09 16:47:03,951 - PullData - INFO - MSSQL connection closed
+2025-04-09 16:48:31,468 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 16:48:31,778 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' and date '2025-04-09'.
+2025-04-09 16:48:31,779 - PullData - INFO - MSSQL connection closed
+2025-04-09 16:51:07,891 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 16:51:08,276 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' and date '2025-04-09'.
+2025-04-09 16:51:08,277 - PullData - INFO - MSSQL connection closed
+2025-04-09 16:53:40,797 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 16:53:41,125 - PullData - ERROR - SQL query failed: Specified as_dict=True and there are columns with no names: [1]
+2025-04-09 16:53:46,338 - PullData - ERROR - SQL query failed: Specified as_dict=True and there are columns with no names: [1]
+2025-04-09 16:53:51,574 - PullData - ERROR - SQL query failed: Specified as_dict=True and there are columns with no names: [1]
+2025-04-09 16:53:56,840 - PullData - ERROR - SQL query failed: Specified as_dict=True and there are columns with no names: [1]
+2025-04-09 16:54:02,193 - PullData - ERROR - SQL query failed: Specified as_dict=True and there are columns with no names: [1]
+2025-04-09 16:54:07,198 - PullData - ERROR - Max retries reached while attempting SQL data fetch.
+2025-04-09 16:59:17,164 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 16:59:17,449 - PullData - ERROR - SQL query failed: name 'date' is not defined
+2025-04-09 16:59:22,620 - PullData - ERROR - SQL query failed: name 'date' is not defined
+2025-04-09 16:59:27,850 - PullData - ERROR - SQL query failed: name 'date' is not defined
+2025-04-09 16:59:33,089 - PullData - ERROR - SQL query failed: name 'date' is not defined
+2025-04-09 16:59:38,297 - PullData - ERROR - SQL query failed: name 'date' is not defined
+2025-04-09 16:59:43,302 - PullData - ERROR - Max retries reached while attempting SQL data fetch.
+2025-04-09 17:02:18,871 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 17:02:19,235 - PullData - ERROR - SQL query failed: name 'date' is not defined
+2025-04-09 17:02:24,533 - PullData - ERROR - SQL query failed: name 'date' is not defined
+2025-04-09 17:02:29,704 - PullData - ERROR - SQL query failed: name 'date' is not defined
+2025-04-09 17:02:34,904 - PullData - ERROR - SQL query failed: name 'date' is not defined
+2025-04-09 17:02:40,268 - PullData - ERROR - SQL query failed: name 'date' is not defined
+2025-04-09 17:02:45,274 - PullData - ERROR - Max retries reached while attempting SQL data fetch.
+2025-04-09 17:04:25,271 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 17:04:25,598 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-09 17:04:25,599 - PullData - INFO - MSSQL connection closed
+2025-04-09 17:05:20,860 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 17:05:21,101 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-09 17:05:21,102 - PullData - INFO - MSSQL connection closed
+2025-04-09 17:11:06,040 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-09 17:11:06,399 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-09 17:11:06,401 - PullData - INFO - MSSQL connection closed
+2025-04-09 18:47:37,828 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-09 18:47:37,833 - Comm - WARNING - No such comm: e5c65577-ade7-437a-963b-8855d477acd9
+2025-04-10 08:00:17,337 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-10 08:00:17,639 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-10 08:00:17,641 - PullData - INFO - MSSQL connection closed
+2025-04-10 11:38:06,426 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-10 11:38:06,428 - Comm - WARNING - No such comm: 9bc9aa3d-3c3d-41af-b452-d670c1da72b2
+2025-04-10 14:42:58,885 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-10 14:42:58,887 - Comm - WARNING - No such comm: 4980b422-874c-469e-b83a-2a1c16ac0644
+2025-04-11 08:00:29,895 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-11 08:00:30,188 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-11 08:00:30,189 - PullData - INFO - MSSQL connection closed
+2025-04-11 08:01:14,451 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-11 08:01:14,456 - Comm - WARNING - No such comm: fde0c725-8f18-450e-9d70-12a1c2eb551d
+2025-04-11 08:30:29,053 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-11 08:30:29,057 - Comm - WARNING - No such comm: f0ed6642-3f39-45a7-9766-57d041571f93
+2025-04-12 08:00:12,538 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-12 08:00:12,776 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-12 08:00:12,777 - PullData - INFO - MSSQL connection closed
+2025-04-13 08:00:24,288 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-13 08:00:24,543 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-13 08:00:24,544 - PullData - INFO - MSSQL connection closed
+2025-04-14 08:00:09,358 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-14 08:00:09,511 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-14 08:00:09,513 - PullData - INFO - MSSQL connection closed
+2025-04-15 08:00:22,497 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-15 08:00:22,819 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-15 08:00:22,823 - PullData - INFO - MSSQL connection closed
+2025-04-16 08:00:06,882 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-16 08:00:06,915 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-16 08:00:06,917 - PullData - INFO - MSSQL connection closed
+2025-04-17 08:00:20,308 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-17 08:00:20,337 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-17 08:00:20,339 - PullData - INFO - MSSQL connection closed
+2025-04-18 08:00:02,951 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-18 08:00:03,250 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-18 08:00:03,252 - PullData - INFO - MSSQL connection closed
+2025-04-19 08:00:14,804 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-19 08:00:14,844 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-19 08:00:14,845 - PullData - INFO - MSSQL connection closed
+2025-04-20 08:00:25,256 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-20 08:00:25,272 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-20 08:00:25,273 - PullData - INFO - MSSQL connection closed
+2025-04-21 00:14:22,142 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-21 00:14:22,144 - Comm - WARNING - No such comm: 43c1f0e2-1ee9-4bfc-8f8b-e414f5278b10
+2025-04-21 08:00:07,339 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-21 08:00:07,356 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-21 08:00:07,357 - PullData - INFO - MSSQL connection closed
+2025-04-22 08:00:21,473 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-22 08:00:21,491 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-22 08:00:21,493 - PullData - INFO - MSSQL connection closed
+2025-04-22 08:21:31,939 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-22 08:21:31,943 - Comm - WARNING - No such comm: c0d8f28f-e771-467c-afe4-9f6635fc12e7
+2025-04-22 14:30:11,412 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-22 14:30:11,414 - Comm - WARNING - No such comm: 08c945a1-ee5a-4ae5-b5af-31c486e0d384
+2025-04-22 14:48:15,510 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-22 14:48:15,512 - Comm - WARNING - No such comm: 211d09cd-b1e2-42bf-95c7-2b2360157c61
+2025-04-23 08:00:03,129 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-23 08:00:03,153 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-23 08:00:03,155 - PullData - INFO - MSSQL connection closed
+2025-04-24 06:36:53,218 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-24 06:36:53,233 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-24 06:36:53,235 - PullData - INFO - MSSQL connection closed
+2025-04-24 06:37:37,050 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-24 06:37:37,064 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-24 06:37:37,065 - PullData - INFO - MSSQL connection closed
+2025-04-24 07:59:57,622 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-24 07:59:57,624 - Comm - WARNING - No such comm: 9ca0c62d-963f-482e-9ed9-69fb5e069e14
+2025-04-24 08:00:00,730 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-24 08:00:00,763 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-24 08:00:00,764 - PullData - INFO - MSSQL connection closed
+2025-04-24 08:20:13,017 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-24 08:20:13,019 - Comm - WARNING - No such comm: 2672befd-5614-4b6b-9aff-87c316d52890
+2025-04-24 09:12:09,572 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-24 09:12:09,575 - Comm - WARNING - No such comm: 3a0df550-b653-41a8-a7a1-4104a97a24fc
+2025-04-25 08:00:15,671 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-25 08:00:15,685 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 26 rows.
+2025-04-25 08:00:15,686 - PullData - INFO - MSSQL connection closed
+2025-04-26 08:00:29,514 - PullData - INFO - MSSQL connected successfully via pymssql
+2025-04-26 08:00:29,732 - PullData - INFO - Successfully fetched SQL data for site 'Carmichael' with 25 rows.
+2025-04-26 08:00:29,733 - PullData - INFO - MSSQL connection closed

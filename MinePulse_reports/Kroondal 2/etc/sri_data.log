@@ -1,0 +1,91 @@
+2025-02-24 09:03:34,001 - PullData - ERROR - Request failed for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f: HTTPSConnectionPool(host='k2minocore.minopex.com', port=443): Max retries exceeded with url: /DataExtract/Timescale_Kroondal2/Fetch?EntityID=5a1a0996-9968-44f4-98d7-ad41008b795f&StartDate=2025-02-22+09%3A03&EndDate=2025-02-24+09%3A03&Granularity=300 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6b885e2ad0>, 'Connection to k2minocore.minopex.com timed out. (connect timeout=30)'))
+2025-02-24 09:05:14,376 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-24 09:05:14,377 - Comm - WARNING - No such comm: f77640b0-c594-49ac-9551-080e40e17307
+2025-02-24 09:11:22,027 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-24 09:11:22,030 - Comm - WARNING - No such comm: 4ba445d8-85b8-4641-8ea0-5cbc7007b699
+2025-02-24 09:12:33,812 - PullData - ERROR - Request failed for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f: HTTPSConnectionPool(host='k2minocore.minopex.com', port=443): Max retries exceeded with url: /DataExtract/DataPoints_Kroondal2/Fetch?EntityID=5a1a0996-9968-44f4-98d7-ad41008b795f&StartDate=2025-02-22+09%3A12&EndDate=2025-02-24+09%3A12&Granularity=300 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb60e346290>, 'Connection to k2minocore.minopex.com timed out. (connect timeout=30)'))
+2025-02-24 09:18:57,481 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-24 09:18:57,484 - Comm - WARNING - No such comm: 8277d652-b05a-4be2-9886-ec766f2bc49e
+2025-02-24 09:30:44,881 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-24 09:30:44,883 - Comm - WARNING - No such comm: 5fd5eea0-cc39-420a-80fe-b9a462119288
+2025-02-24 10:13:42,402 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-24 10:13:42,404 - Comm - WARNING - No such comm: a9ce7bb0-7da8-4102-ae3d-964b8cc67225
+2025-02-26 12:10:35,069 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-26 12:10:35,072 - Comm - WARNING - No such comm: cb70a340-f0ac-418b-a1d8-fd71ca7a5e13
+2025-02-26 12:11:47,916 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-26 12:11:47,918 - Comm - WARNING - No such comm: 352e0d5b-c393-4410-b748-493f0cef7656
+2025-03-03 21:54:15,957 - PullData - ERROR - Request failed for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f: 400 Client Error: Bad Request for url: https://k2minocore.minopex.com/DataExtract/DataPoints_Kroondal2/Fetch?EntityID=5a1a0996-9968-44f4-98d7-ad41008b795f&StartDate=2025-03-01+21%3A53&EndDate=2025-03-03+21%3A53&Granularity=300
+2025-03-03 22:23:57,480 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-03 22:23:57,483 - Comm - WARNING - No such comm: d7c6cb60-54a1-4085-be51-18d7d15ee5f8
+2025-03-03 22:28:14,345 - PullData - ERROR - Request failed for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f: 400 Client Error: Bad Request for url: https://k2minocore.minopex.com/DataExtract/DataPoints_Kroondal2/Fetch?EntityID=5a1a0996-9968-44f4-98d7-ad41008b795f&StartDate=2025-03-01+22%3A27&EndDate=2025-03-03+22%3A27&Granularity=300
+2025-03-05 14:51:52,711 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-05 14:51:52,715 - Comm - WARNING - No such comm: f9fc58f9-e720-42c5-8413-7b67ce024937
+2025-03-05 14:53:44,195 - PullData - ERROR - Request failed for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f: 400 Client Error: Bad Request for url: https://k2minocore.minopex.com/DataExtract/DataPoints_Kroondal2/Fetch?EntityID=5a1a0996-9968-44f4-98d7-ad41008b795f&StartDate=2025-03-03+14%3A53&EndDate=2025-03-05+14%3A53&Granularity=300
+2025-03-05 14:58:11,761 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-05 14:58:11,765 - Comm - WARNING - No such comm: 59b0986e-9587-4911-ba7e-3a2764fc8f42
+2025-03-05 15:43:15,948 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 15:44:51,644 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 15:47:01,620 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 15:47:02,470 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:15:08,187 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:15:08,610 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:15:38,102 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:15:38,472 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:28:06,912 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:28:07,577 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:28:21,851 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:28:22,263 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:28:43,819 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:28:44,187 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:29:07,700 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:29:08,143 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:29:29,417 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:29:29,965 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:30:03,168 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:30:03,714 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:31:42,709 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:31:43,285 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:40:42,467 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:40:43,239 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:42:07,416 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:42:08,002 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:43:50,395 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:43:50,827 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:45:21,260 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:45:21,812 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:47:00,033 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:47:00,585 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 16:49:01,618 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-05 16:49:02,214 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-05 20:19:09,576 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-05 20:19:09,578 - Comm - WARNING - No such comm: cf609eea-d38b-430b-bb44-c6d4a6917caf
+2025-03-06 08:38:12,071 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 08:38:12,073 - Comm - WARNING - No such comm: 15b44cf8-82f3-43a6-a2e5-d7f5bed25085
+2025-03-06 15:06:19,100 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 15:06:19,101 - Comm - WARNING - No such comm: 2ef8388b-1fc1-4515-b5b9-109e448fe04f
+2025-03-06 19:58:31,813 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 19:58:31,815 - Comm - WARNING - No such comm: 4f718cf6-c962-47f4-8461-aeb8505f87e0
+2025-03-06 20:05:54,702 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 20:05:54,705 - Comm - WARNING - No such comm: 5ff57288-9603-455e-9932-9f88f89c1fc5
+2025-03-06 20:07:15,060 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-06 20:07:15,853 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-06 20:09:19,278 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-06 20:09:20,114 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-06 20:11:18,293 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-06 20:11:18,792 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-06 20:12:54,881 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-06 20:12:55,818 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-06 20:51:16,488 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 20:51:16,491 - Comm - WARNING - No such comm: 9c327ad3-2e88-4ba4-a0f5-83188857317a
+2025-03-06 20:52:14,984 - PullData - INFO - Data fetched successfully for EntityID 5a1a0996-9968-44f4-98d7-ad41008b795f
+2025-03-06 20:52:15,642 - PullData - INFO - Data fetched successfully for EntityID 6f241988-e719-4296-819c-acfd00c28ee6
+2025-03-06 22:10:16,886 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 22:10:16,887 - Comm - WARNING - No such comm: 9f179a41-9a76-4ca9-8573-358ffe225a8a
+2025-03-06 22:10:16,925 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 22:10:16,927 - Comm - WARNING - No such comm: df3ee0e1-1f68-4b65-a0e0-5a03c6acfeb4
+2025-03-06 22:10:18,862 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-06 22:10:18,863 - Comm - WARNING - No such comm: 477cd484-9306-400b-9684-235c8538782f
+2025-03-10 10:32:00,962 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-10 10:32:00,965 - Comm - WARNING - No such comm: de57f3c6-184b-4ba4-a800-f16e41d669ba
+2025-03-10 10:32:32,581 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-10 10:32:32,583 - Comm - WARNING - No such comm: c48a3776-f5c1-439b-8739-47ff6c1b3a84

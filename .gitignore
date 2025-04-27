@@ -1,0 +1,18 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VSCode settings
+.vscode/
+
+# Environment folders
+.env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db

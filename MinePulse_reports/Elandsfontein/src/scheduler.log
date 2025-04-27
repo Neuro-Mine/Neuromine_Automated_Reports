@@ -1,0 +1,33 @@
+nohup: ignoring input
+Running scheduled data fetch and alert...
+Start time:  2025-03-03 06:00 
+ End Date: 2025-03-04 06:00
+Sending Telegram Notification
+Plant Throughput  Value: 339.421  Target:  271.0 True
+Message sent successfully!
+Running scheduled data fetch and alert...
+Start time:  2025-03-04 06:00 
+ End Date: 2025-03-05 06:00
+Sending Telegram Notification
+Plant Throughput  Value: 331.434  Target:  271.0 True
+Message sent successfully!
+Running scheduled data fetch and alert...
+Start time:  2025-03-05 06:00 
+ End Date: 2025-03-06 06:00
+Sending Telegram Notification
+Traceback (most recent call last):
+  File "/home/neurominemonitoring/Neuromine_Automated_Reports/MinePulse_reports/Elandsfontein/src/scheduler.py", line 121, in <module>
+    schedule.run_pending()
+  File "/home/neurominemonitoring/.local/lib/python3.10/site-packages/schedule/__init__.py", line 822, in run_pending
+    default_scheduler.run_pending()
+  File "/home/neurominemonitoring/.local/lib/python3.10/site-packages/schedule/__init__.py", line 100, in run_pending
+    self._run_job(job)
+  File "/home/neurominemonitoring/.local/lib/python3.10/site-packages/schedule/__init__.py", line 172, in _run_job
+    ret = job.run()
+  File "/home/neurominemonitoring/.local/lib/python3.10/site-packages/schedule/__init__.py", line 693, in run
+    ret = self.job_func()
+  File "/home/neurominemonitoring/Neuromine_Automated_Reports/MinePulse_reports/Elandsfontein/src/scheduler.py", line 112, in fetch_and_send_report
+    datapull.send_telegram(df, entity_config)
+  File "/home/neurominemonitoring/Neuromine_Automated_Reports/MinePulse_reports/Elandsfontein/src/PullData.py", line 117, in send_telegram
+    print(col_name, " Value:",value," Target: ", lower, value>lower)
+TypeError: '>' not supported between instances of 'float' and 'NoneType'
